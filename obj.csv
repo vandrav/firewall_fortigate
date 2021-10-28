@@ -1,0 +1,12 @@
+FW Object Name,FW Interface,Object Type (ipmask/ iprange/ fqdn),Object IP/FQDN (first ip for iprange ),Second IP ( if iprange),Comment
+FW-CLOUD,,,,,
+INTRANET_orenburg.office.orange.intra,FW-CLOUD-in,ipmask,172.16.33.77/32,,WO00541623
+INTRANET_odessa.office.orange.intra,FW-CLOUD-in,ipmask,172.16.23.18/32,,WO00541623
+INTRANET_smtp-client.orange.intra,FW-CLOUD-in,ipmask,172.16.21.192/32,,WO00541623
+INTRANET_smtp-gateway.orange.intra,FW-CLOUD-in,ipmask,172.16.21.191/32,,WO00541623
+INTRANET_DNS_INTERN_172.20.130.160_28,FW-CLOUD-in,ipmask,172.20.130.160/28,,WO00541623
+INTRANET_DNS_INTERN_172.20.130.176_28,FW-CLOUD-in,ipmask,172.20.130.176/28,,WO00541623
+ntp1.orange.intra,FW-CLOUD-in,ipmask,172.16.75.234/32,,WO00541623
+ntp2.orange.intra,FW-CLOUD-in,ipmask,172.16.219.200/32,,WO00541623
+ntp3.orange.intra,FW-CLOUD-in,ipmask,172.16.216.80/32,,WO00541623
+AUTOMATION_mta2.prod.orange.intra,FW-CLOUD-in,ipmask,172.18.53.39/32,,WO00541623

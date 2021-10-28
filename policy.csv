@@ -1,0 +1,7 @@
+Incoming Interface,Outgoing Interface,Source Address,User Group,Destination Address,Action (accept/decline),Schedule (let empty if always),Services,Logtraffic (let empty if all),NAT,Poolname,Comment
+FW-CLOUD,,,,,,,,,,,
+FW-CLOUD-out,FW-CLOUD-in,all,,Grp_INTRANET_DNS_SERVERS,accept,,DNS,,,,WO00541623
+FW-CLOUD-out,FW-CLOUD-in,all,,Grp_OFFICE_AD_SERVERS,accept,,LDAP LDAPS,,,,WO00541623
+FW-CLOUD-out,FW-CLOUD-in,all,,paul.srv.orange.intra,accept,,HTTP,,,,WO00541623
+FW-CLOUD-out,FW-CLOUD-in,all,,Grp_NTP_SERVERS,accept,,NTP,disable,,,WO00541623
+FW-CLOUD-out,FW-CLOUD-in,all,,Grp_AUTOMATION_SMTP_SERVERS Grp_INTRANET_SMTP_SERVERS,accept,,SMTP,disable,,,WO00541623

@@ -1,0 +1,27 @@
+FW ID,Add/Remove,Source , Destination,User Group (if needed),Service,NAT,Poolname,HOSTNAME
+FW-AUTOIT,,,,,,,,bi0514
+989,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+1282,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+1382,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+1435,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+1534,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+,,,,,,,,
+986,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+1276,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+1375,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+1528,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+1530,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+,,,,,,,,
+,,,,,,,,
+FW-INTGRITY,,,,,,,,
+1868,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+2181,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+2938,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+,,,,,,,,
+2170,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+2930,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,cl0400
+,,,,,,,,
+FW-SERVICES,,,,,,,,
+321,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+324,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
+325,add,Grp_DMZA_docker_CRM_prov_exec,,,,,,bi0514
